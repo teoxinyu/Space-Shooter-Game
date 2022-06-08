@@ -38,7 +38,7 @@ The core features of the game are as follows:
   - Lose Condition
 
 ## Credits
-Tutorial: [TechWithTim](https://www.youtube.com/watch?v=Q-__8Xw9KTM&ab_channel=TechWithTim)
+Tutorial: [TechWithTim](https://www.youtube.com/watch?v=Q-__8Xw9KTM&ab_channel=TechWithTim)  
 Assets:
 1. Background: [ansimuz](https://ansimuz.itch.io/space-background)
 2. Ships: [TechWithTim](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDJwNzhDQTFBX2ZZbmRUSGRSTXZIZGRzbENUQXxBQ3Jtc0tsaF9OcXNOY1o2ejh6QWFKUW1MQWR0bXhBMDMyazJQb0lyd3Z3eU9icEpYMEZuV1FHTl85Vk1oc09Mc0hGU3JkUDFnb1I3ZEtpWTZmTTdlZUZBNWhIR2ZKdEc1MHVZVjdPeHU5ZUxPdXBiVmUwX3NoMA&q=https%3A%2F%2Ftechwithtim.net%2Fwp-content%2Fuploads%2F2020%2F04%2Fassets.zip&v=Q-__8Xw9KTM)
