@@ -6,6 +6,7 @@ The project is a throwback to the old Atari game "Space-Invaders", developed in 
 - DOWN ARROW: Moves backwards
 - LEFT ARROW: Strafe Left
 - RIGHT ARROW: Strafe Right
+- SPACE BAR: Fire Laser
 
 As the player destroys all enemy spaceship in each wave, the game progressively gets harder where more enemies are contained in the following waves.
 
