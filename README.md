@@ -1,7 +1,7 @@
 # Python-Space-Shooter-Game
 
 ## About The Project
-The project is a throwback to the old Atari game "Space-Invaders", developed in a casual bullet-hell style. The player is expected to destroy incoming enemies while simultaneouly dodging their attacks. The controls are as follows:
+The project is a throwback to the old Atari game "Space-Invaders", set in a casual bullet-hell style. The player is expected to destroy incoming enemies while simultaneouly dodging their attacks. The controls are as follows:
 - UP ARROW: Moves forward
 - DOWN ARROW: Moves backwards
 - LEFT ARROW: Strafe Left
